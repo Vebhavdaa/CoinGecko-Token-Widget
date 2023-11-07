@@ -9,7 +9,7 @@ A simple web widget to display cryptocurrency token details using the CoinGecko 
 ## Demo
 
 
-Check out the live demo [here]([https://your-username.github.io/coingecko-widget](https://654a47501aa10933cda91774--darling-kashata-660a30.netlify.app/)).
+Check out the live demo [here](https://your-username.github.io/coingecko-widget](https://654a47501aa10933cda91774--darling-kashata-660a30.netlify.app/).
 
 ## Features
 
