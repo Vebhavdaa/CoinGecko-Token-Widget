@@ -1,8 +1,8 @@
 # CoinGecko Token Widget
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Vebhavdaa/coingecko-widget)
-![GitHub license](https://img.shields.io/github/license/Vebhavdaa/coingecko-widget)
-![GitHub stars](https://img.shields.io/github/stars/Vebhavdaa/coingecko-widget?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Vebhavdaa/CoinGecko-Token-Widget)
+![GitHub license](https://img.shields.io/github/license/Vebhavdaa/CoinGecko-Token-Widget)
+![GitHub stars](https://img.shields.io/github/stars/Vebhavdaa/CoinGecko-Token-Widget?style=social)
 
 A simple web widget to display cryptocurrency token details using the CoinGecko API. Users can select from a list of tokens and currencies to view real-time data.
 
