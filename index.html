@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CoinGecko Token Widget</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <form id="coingecko-form">
+        <label for="token">Select Token:</label>
+        <select id="token">
+            <option value="bitcoin">Bitcoin</option>
+            <option value="ethereum">Ethereum</option>
+            <option value="tether">Tether</option>
+            <option value="usd-coin">USD Coin</option>
+        </select>
+
+        <label for="currency">Select Currency:</label>
+        <select id="currency">
+            <option value="usd">USD</option>
+            <option value="eur">EUR</option>
+        </select>
+
+        <button type="submit">Fetch Data</button>
+    </form>
+
+    <div id="coingecko-widget"></div>
+
+</body>
+
+</html>
+<script src="script.js"> </script>

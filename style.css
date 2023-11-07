@@ -1,0 +1,44 @@
+#coingecko-form {
+    padding: 25px;
+    margin: 25px;
+    font-weight: bolder;
+}
+
+#coingecko-form select,
+button {
+    color: #3498db;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+
+}
+
+#coingecko-widget {
+    border: 2px solid #3498db;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    box-shadow: 0px 0px 10px #888888;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #3498db;
+}
+
+.info {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
